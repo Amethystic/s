@@ -5,7 +5,7 @@ local Username = game:GetService("Players").LocalPlayer.DisplayName
 local Player = game:GetService("Players").LocalPlayer
 local Global = game.StarterPlayer
 
-local Cheatname = "SEXperiment.pl | "
+local Cheatname = "Bladerbenis.lol | "
 local sds = "User:"
 
 local Window = Menu:CreateWindow({
