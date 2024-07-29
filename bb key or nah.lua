@@ -19,7 +19,7 @@ local Window = Menu:CreateWindow({
 })
 
 local Tabs = {
-    Main = Window:AddTab({ Title = "Player" })
+    Main = Window:AddTab({ Title = "Pick Script" })
 }
 
 local Options = Menu.Options do
