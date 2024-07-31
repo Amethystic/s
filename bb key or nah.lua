@@ -32,7 +32,7 @@ local Options = Menu.Options do
                 Content = "Which great script would you like to load?",
                 Buttons = {
                     {
-                        Title = "FF3",
+                        Title = "FFJHub",
                         Callback = function()
                             print("Confirmed the dialog.")
                             Window:Destroy()
